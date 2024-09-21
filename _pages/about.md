@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+<br>
 我来自中国台湾省新北市，于2013年来到中国江苏南京生活。目前就读于南京理工大学，是一名大学四年级的本科生。
 
 我感兴趣的方向是多模态、模式识别、自然语言处理。我有过kaggle、eccv附属竞赛若干竞赛的参赛获奖经历，并且以一作身份著有一篇会议论文。
@@ -68,7 +68,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 **概览**  
 
-- 针对基于各种大模型（LLMs）的聊天机器人中，探索用户更偏好哪些回答，以改善聊天机器人与人类的互动。基于Gemma-2-9b-it模型构建开发出对众多大模型（LLMs）择优的机器学习模型。
+- 针对基于各种大模型（LLMs）的聊天机器人中，探索用户更偏好哪些回答，以改善聊天机器人与人类的互动。基于Gemma-2-9b-it模型构建开对众多大模型（LLMs）择优的机器学习模型。
 
 **主要贡献** 
 - 模型调研、模型微调、推理优化
