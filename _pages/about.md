@@ -9,7 +9,7 @@ redirect_from:
 ---
 <style>
 body {
-    font-size: 1.3em; /* 增大字体大小 */
+    font-size: 1.2em; /* 增大字体大小 */
 }
 </style>
 {% if site.google_scholar_stats_use_cdn %}
