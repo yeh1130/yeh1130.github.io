@@ -41,14 +41,14 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 [ **The Second Perception Test ChallengeWorkshop at ECCV 2024 Perception Test Challenge 2024 - Task 1 - Multiple-choice videoQA**](https://eval.ai/web/challenges/challenge-page/2308/overview)
 
-**叶家睿**, 彭阳
+**主要负责人**
 
 **概览**  
 
 - 针对多模态任务-多项选择视频问答（mc-VQA）任务中，模型需要同时处理视频、音频和文本模式，以回答涵盖记忆、抽象、物理和语义四个技能领域的问题。我们提出了基于BLIP2模型，相较于baseline的F1值取得了大幅提高，显著提升了准确率。  
 
 **主要贡献** 
-- 代码实现、模型调研、数据收集处理。
+- 代码实现、模型调研、数据收集处理
 
 **成果**
 - Leader board最终排名第七 
@@ -59,22 +59,22 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 Perception Test</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">kaggle</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ **The Second Perception Test ChallengeWorkshop at ECCV 2024 Perception Test Challenge 2024 - Task 1 - Multiple-choice videoQA**](https://eval.ai/web/challenges/challenge-page/2308/overview)
+[ **LMSYS - Chatbot Arena Human Preference Predictions**](https://www.kaggle.com/competitions/lmsys-chatbot-arena)
 
-**叶家睿**, 彭阳
+**核心成员**
 
 **概览**  
 
-- 针对多模态任务-多项选择视频问答（mc-VQA）任务中，模型需要同时处理视频、音频和文本模式，以回答涵盖记忆、抽象、物理和语义四个技能领域的问题。我们采用了基于BLIP2的SeViLA模型的架构，对模型进行优化，相较于baseline的F1值取得了大幅提高，显著提升了准确率。  
+- 针对基于各种大模型（LLMs）的聊天机器人中，探索用户更偏好哪些回答，以改善聊天机器人与人类的互动。基于Gemma-2-9b-it模型构建开发出对众多大模型（LLMs）择优的机器学习模型。
 
 **主要贡献** 
-- 代码实现、模型调研、数据收集处理。
+- 模型调研、模型微调、推理优化
 
 **成果**
-- Leader board最终排名第七 
+- 银牌
 
 </div>
 </div>
