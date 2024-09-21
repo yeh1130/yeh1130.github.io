@@ -21,7 +21,7 @@ redirect_from:
 
 我感兴趣的方向是多模态、模式识别、自然语言处理。我有过kaggle、eccv附属竞赛若干竞赛的参赛获奖经历，并且以一作身份著有一篇会议论文。
 
-# 🔥 近期动态
+# 🔥近期动态
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -45,7 +45,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 **概览**  
 
-- 针对多模态任务-多项选择视频问答（mc-VQA）任务中，模型需要同时处理视频、音频和文本模式，以回答涵盖记忆、抽象、物理和语义四个技能领域的问题。我们提出了基于BLIP2模型，相较于baseline的F1值取得了大幅提高，显著提升了准确率。  
+- 针对多模态任务-多项选择视频问答（mc-VQA）任务中，模型需要同时处理视频、音频和文本模式，以回答涵盖记忆、抽象、物理和语义四个技能领域的问题。我们采用了了基于BLIP2的SeViLA模型架构，并优化模型。应用结果相较于baseline的F1值取得了大幅提高，显著提升了准确率。  
 
 **主要贡献** 
 - 代码实现、模型调研、数据收集处理
