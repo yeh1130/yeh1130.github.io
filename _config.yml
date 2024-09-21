@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ò¶¼Òî£"
+  name             : "å¶å®¶ç¿"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "ÄÏ¾©Àí¹¤´óÑ§-¼ÆËã»ú¿ÆÑ§Óë¹¤³Ì-ÖÇÄÜ¿ÆÑ§Óë¼¼Êõ"
-  location         : "ÖĞ¹ú ½­ËÕÄÏ¾©"
-  employer         : "ÄÏ¾©Àí¹¤´óÑ§"
+  bio              : "å—äº¬ç†å·¥å¤§å­¦-è®¡ç®—æœºç§‘å­¦ä¸å·¥ç¨‹-æ™ºèƒ½ç§‘å­¦ä¸æŠ€æœ¯"
+  location         : "ä¸­å›½ æ±Ÿè‹å—äº¬"
+  employer         : "å—äº¬ç†å·¥å¤§å­¦"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "yeh_1130@163.com" 
