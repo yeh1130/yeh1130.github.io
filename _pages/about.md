@@ -41,10 +41,18 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 [ **The Second Perception Test ChallengeWorkshop at ECCV 2024 Perception Test Challenge 2024 - Task 1 - Multiple-choice videoQA**](https://eval.ai/web/challenges/challenge-page/2308/overview)
 
-**Jiarui YE**, PengYang
+**叶家睿**, 彭阳
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**概览**  
+
+- 针对多模态任务-多项选择视频问答（mc-VQA）任务中，模型需要同时处理视频、音频和文本模式，以回答涵盖记忆、抽象、物理和语义四个技能领域的问题。我们提出了基于BLIP2模型。  
+
+**主要贡献** 
+- 代码实现、模型调研、数据收集处理。
+
+**成果**
+- Leader board最终排名第七 
+
 </div>
 </div>
 
