@@ -113,6 +113,3 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 # 💬 语言水平
 - 英语四级证书（CET-4）、英语六级证书（CET-6）
 
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
