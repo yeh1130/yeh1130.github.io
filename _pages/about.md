@@ -59,10 +59,10 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">kaggle</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Kaggle</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ **LMSYS - Chatbot Arena Human Preference Predictions**](https://www.kaggle.com/competitions/lmsys-chatbot-arena)
+[ **Kaggle:LMSYS - Chatbot Arena Human Preference Predictions**](https://www.kaggle.com/competitions/lmsys-chatbot-arena)
 
 **核心成员**
 
