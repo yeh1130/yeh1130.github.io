@@ -20,10 +20,10 @@
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i> {{ author.location }}</li>
+       <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true" style="padding-left: 2.5px;"></i><span style="padding-left: 5.5px;"></span>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
@@ -32,7 +32,7 @@
       <li class="author__desktop"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i><span style="padding-left: 6px;"></span>{{ author.email }}</li>
       {% endif %}
       {% if author.kaggle %}
-      <li><a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-fw fa-kaggle icon-pad-right" aria-hidden="true"></i><span style="padding-left: 6px;"></span>Kaggle</a></li>
+      <li><a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-fw fa-kaggle icon-pad-right" aria-hidden="true"></i>Kaggle</a></li>
       {% endif %}  
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
