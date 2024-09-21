@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我来自中国台湾省新北市，于2013年来到中国江苏南京生活。目前就读于南京理工大学，是一名大学四年级的本科生s。
+我来自中国台湾省新北市，于2013年来到中国江苏南京生活。目前就读于南京理工大学，是一名大学四年级的本科生。
 
 我感兴趣的方向是多模态、模式识别、自然语言处理。我有过kaggle、eccv附属竞赛若干竞赛的参赛获奖经历，并且以一作身份著有一篇会议论文。
 
@@ -36,7 +36,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 test</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ **The Second Perception Test ChallengeWorkshop at ECCV 2024 Perception Test Challenge 2024 - Task 1 - Multiple-choice videoQA**](https://eval.ai/web/challenges/challenge-page/2308/overview)
