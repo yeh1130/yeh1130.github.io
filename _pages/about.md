@@ -68,7 +68,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 **概览**  
 
-- 针对多模态任务-多项选择视频问答（mc-VQA）任务中，模型需要同时处理视频、音频和文本模式，以回答涵盖记忆、抽象、物理和语义四个技能领域的问题。我们选取了基于BLIP2的SeViLA模型，对视觉encoder层进行优化，相较于baseline的F1值取得了大幅提高，显著提升了准确率。  
+- 针对多模态任务-多项选择视频问答（mc-VQA）任务中，模型需要同时处理视频、音频和文本模式，以回答涵盖记忆、抽象、物理和语义四个技能领域的问题。我们采用了基于BLIP2的SeViLA模型的架构，对模型进行优化，相较于baseline的F1值取得了大幅提高，显著提升了准确率。  
 
 **主要贡献** 
 - 代码实现、模型调研、数据收集处理。
