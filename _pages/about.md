@@ -68,7 +68,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 **概览**  
 
-- 针对基于各种大模型（LLMs）的聊天机器人中，探索用户更偏好哪些回答，以改善聊天机器人与人类的互动。基于Gemma-2-9b-it模型构建开对众多大模型（LLMs）择优的机器学习模型。
+- 针对基于各种大模型（LLMs）的聊天机器人中，探索用户每个问题更偏好哪个模型的回答，以改善聊天机器人与人类的互动。我们基于Gemma-2-9b-it模型进行微调，构建对众多大模型（LLMs）择优的机器学习模型。
 
 **主要贡献** 
 - 模型调研、模型微调、推理优化
@@ -79,6 +79,28 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 </div>
 </div>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+# 📝 文章发表
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 test</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ **DeBERTa-Based Social Media Sentiment Analysis: A Cryptocurrency Case Study**（已收到录用通知）
+
+**一作**
+
+**概览**  
+
+- 针对舆情对加密货币价格走势产生重要影响这一事实，利用reddit等流行社交平台构造数据集并基于DeBERTa构造情感分析模型并微调，提高对投资人情感态度的分析准确度，为加密货币价格走势分析领域提供有力的支持。
+
+**主要贡献** 
+- 代码实现、模型调研、数据收集处理、论文撰写
+
+**成果**
+- 以第一作者身份在ICEC-2024 发表会议论文一篇
+
+</div>
+</div>  
 
 # 🎖 荣誉奖项
 - 2021-2022  江苏省港澳台奖学金 二等奖
