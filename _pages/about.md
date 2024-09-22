@@ -44,7 +44,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 # 📝 项目竞赛
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 test</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 test</div><img src='eccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ **The Second Perception Test ChallengeWorkshop at ECCV 2024 Perception Test Challenge 2024 - Task 1 - Multiple-choice videoQA**](https://eval.ai/web/challenges/challenge-page/2308/overview)
