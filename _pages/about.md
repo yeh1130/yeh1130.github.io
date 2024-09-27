@@ -33,12 +33,16 @@ body {
 
 - *2024.08*: &nbsp;🎉🎉 以核心成员身份参与kaggle竞赛LMSYS - Chatbot Arena Human Preference Predictions获得银牌. 
 
-<br><br>
+<br>
 
 # 🏫在校情况
 ======
-在校绩点：
-排名：
+在校绩点： 
+<br>
+
+排名:  
+
+
 <br><br><br>
 
 
@@ -90,7 +94,7 @@ body {
 
 # 📝 文章发表
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 test</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 test</div><img src='paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  **DeBERTa-Based Social Media Sentiment Analysis: A Cryptocurrency Case Study**（已收到录用通知）
