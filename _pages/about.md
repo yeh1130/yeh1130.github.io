@@ -29,18 +29,18 @@ body {
 
 # 🔥近期动态
 
-- *2024.09*: &nbsp;🎉🎉 以第一作者身份撰写DeBERTa-Based Social Media Sentiment Analysis: A Cryptocurrency Case Study收到录用通知。
+- *2024.09*: &nbsp;🎉 以第一作者身份撰写DeBERTa-Based Social Media Sentiment Analysis: A Cryptocurrency Case Study收到录用通知。
 
-- *2024.08*: &nbsp;🎉🎉 以核心成员身份参与kaggle竞赛LMSYS - Chatbot Arena Human Preference Predictions获得银牌. 
+- *2024.08*: &nbsp;🎉 以核心成员身份参与kaggle竞赛LMSYS - Chatbot Arena Human Preference Predictions获得银牌. 
 
 <br>
 
 # 🏫在校情况
 <br><br>
-<strong>在校绩点</strong>:  3.4/4&nbsp;&nbsp;&nbsp;平均总成绩：84
+&nbsp;<strong>在校绩点</strong>:  3.4/4&nbsp;&nbsp;&nbsp;&nbsp;<strong>平均总成绩：</strong>84.0/100
 <br><br><br>
 
-主要科目:  视觉传感技术93、模式识别 91 、程序设计基础 87、概率与统计87、  
+&nbsp;<strong>主要科目</strong>:  视觉传感技术93、模式识别 91 、程序设计基础 87、概率与统计87、  
 <br>
 图像处理与分析86、操作系统86、数据库原理85
           
