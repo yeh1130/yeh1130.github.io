@@ -60,7 +60,7 @@ body {
 
 **概览**  
 
-- 针对多模态任务-多项选择视频问答（mc-VQA）任务中，模型需要同时处理视频、音频和文本模式，以回答涵盖记忆、抽象、物理和语义四个技能领域的问题。我们采用了了基于BLIP2的SeViLA模型架构，并尝试透过替换vision encoder优化模型。应用结果相较于baseline的F1值取得了大幅提高，显著提升了准确率。  
+- 针对多模态任务-多项选择视频问答（mc-VQA）任务中，模型需要同时处理视频、音频和文本模式，以回答涵盖记忆、抽象、物理和语义四个技能领域的问题。我们采用了了基于BLIP2的SeViLA模型架构，并尝试透过替换视觉encoder优化模型。应用结果相较于baseline的F1值取得了大幅提高，显著提升了准确率。  
 
 **主要贡献** 
 - 代码实现、模型调研、数据收集处理
@@ -100,7 +100,7 @@ body {
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 test</div><img src='paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- **DeBERTa-Based Social Media Sentiment Analysis: A Cryptocurrency Case Study**（已收到录用通知）
+ **DeBERTa-Based Social Media Sentiment Analysis: A Cryptocurrency Case Study**--（已收到录用通知）
 
 **一作**
 
