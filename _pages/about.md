@@ -27,6 +27,7 @@ body {
 
 我感兴趣的方向是多模态、模式识别、自然语言处理。我有过kaggle、eccv附属竞赛若干竞赛的参赛获奖经历，并且以一作身份著有一篇会议论文。
 <br>
+
 # 🔥近期动态
 
 - *2024.09*: &nbsp;🎉 以第一作者身份撰写DeBERTa-Based Social Media Sentiment Analysis: A Cryptocurrency Case Study收到录用通知。
