@@ -36,9 +36,9 @@ body {
 <br>
 
 # 🏫在校情况
-<br><br>
+<br>
 &nbsp;<strong>在校绩点</strong>:  3.4/4&nbsp;&nbsp;&nbsp;&nbsp;<strong>平均总成绩：</strong>84.0/100
-<br><br><br>
+<br><br>
 
 &nbsp;<strong>主要科目</strong>:  视觉传感技术93、模式识别 91 、程序设计基础 87、概率与统计87、  
 <br>
@@ -46,7 +46,7 @@ body {
           
 
 
-<br><br><br>
+<br><br>
 
 
 # 📝 项目竞赛
