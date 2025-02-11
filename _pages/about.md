@@ -30,7 +30,7 @@ body {
 
 # 🔥近期动态
 
-- *2024.09*: &nbsp;🎉 以第一作者身份撰写DeBERTa-Based Social Media Sentiment Analysis: A Cryptocurrency Case Study收到录用通知。
+- *2024.09*: &nbsp;🎉 以第一作者身份撰写DeBERTa-Based Social Media Sentiment Analysis: A Cryptocurrency Case Study已获ICEC-2024录用。
 
 - *2024.08*: &nbsp;🎉 以核心成员身份参与kaggle竞赛LMSYS - Chatbot Arena Human Preference Predictions获得银牌. 
 
@@ -99,7 +99,7 @@ body {
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024 test</div><img src='paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- **DeBERTa-Based Social Media Sentiment Analysis: A Cryptocurrency Case Study**--（已收到录用通知）
+ [**DeBERTa-Based Social Media Sentiment Analysis: A Cryptocurrency Case Study**](https://ieeexplore.ieee.org/abstract/document/10837213)
 
 **一作**
 
